@@ -1,0 +1,9 @@
+{
+    "path" : "~/Home Price Prediction",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

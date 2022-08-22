@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1660327393357.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3330712336",
+    "id" : "656068D9",
+    "lastKnownWriteTime" : 1660994400,
+    "last_content_update" : 1660994401507,
+    "path" : "~/Home Price Prediction/Abel_Edugie_Home_Sales_Price_Prediction_Deploy.R",
+    "project_path" : "Abel_Edugie_Home_Sales_Price_Prediction_Deploy.R",
+    "properties" : {
+        "cursorPosition" : "20,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
